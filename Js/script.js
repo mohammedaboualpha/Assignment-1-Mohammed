@@ -8,7 +8,7 @@ console.log( "mohammed är 32 år gammal" )
 
 
 // 1) djikkass
-alert ('hejjjjjjjjjjsan')
+alert ('hejjjjjjjjjjsanfelstavat')
 
 let box1
 box1 = 5
